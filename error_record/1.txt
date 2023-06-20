@@ -1,0 +1,17 @@
+com.jfinal.plugin.activerecord.ActiveRecordException: java.sql.SQLException: Data truncated for column 'credits' at row 1
+	at com.jfinal.plugin.activerecord.DbPro.save(DbPro.java:717)
+	at com.jfinal.plugin.activerecord.DbPro.save(DbPro.java:727)
+	at com.jfinal.plugin.activerecord.Db.save(Db.java:496)
+	at com.litongjava.uh.courses.pipeline.CourseKapPipeline.process(CourseKapPipeline.java:62)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+https://www.sis.hawaii.edu/uhdad/avail.classes?i=KAP&t=202410&s=BUS
+Credits
+1-3

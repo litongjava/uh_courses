@@ -1,0 +1,1 @@
+com.jfinal.plugin.activerecord.ActiveRecordException: java.sql.SQLException: Incorrect integer value: ' ' for column 'curr_waitlisted' at row 1

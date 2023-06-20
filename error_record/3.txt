@@ -1,0 +1,2 @@
+2023-06-21 00:48:27.439 [pool-1-thread-1] ERROR CourseKapProcessor.process:56 - exception:Index: 1, Size: 1,
+https://www.sis.hawaii.edu/uhdad/avail.classes?i=KAP&t=202410&s=CULN
